@@ -1,4 +1,2 @@
-# Nishika
-# Nishika
 # Nishika1
-# Nishika1
+# Used_mansion's price prediction
